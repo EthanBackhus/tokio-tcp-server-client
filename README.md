@@ -1,4 +1,4 @@
-# Tokio Redis Server–Client
+# Tokio TCP Server–Client
 
 A simple asynchronous Redis-like server written in Rust using Tokio and the mini-redis protocol.
 
